@@ -26,7 +26,7 @@ For more information on the JasmineWS project please take a look at our [website
 
 ![JasmineWS Templates](https://jasminews.uk/github/jwsone.svg)
 
-We have released released two starter templates a One and Two column design.
+We have released released two JWS templates a [One](https://github.com/jasminedesign/jwsone "github.com/jasminedesign/jwsone") and [Two](https://github.com/jasminedesign/jwstwo "github.com/jasminedesign/jwstwo") column design.
 
 The idea of the templates is you can make changes to the content within the HTML File and it is styled for you using the CSS provided.
 
